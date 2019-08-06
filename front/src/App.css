@@ -31,3 +31,22 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+}
+
+input[type=password], input[type=text] {
+  border: 1px #b6e7f9 solid;
+  padding: 5px 10px;
+}
+
+input[type=checkbox] {
+  vertical-align: middle;
+}

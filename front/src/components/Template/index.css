@@ -1,0 +1,14 @@
+/* ************************** */
+/* .cv{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+} */
+
+
+.react-grid-layout {
+  width: 100%;
+}
+.react-grid-item.cssTransforms{
+  border: 2px solid;
+}
