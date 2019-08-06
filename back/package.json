@@ -8,16 +8,8 @@
     "heroku-postbuild": "npm install husky --save-dev",
     "dev": "concurrently \"npm run server\" \"npm run server\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CaroTrd/Curriculum_vitae_app.git"
-  },
-  "author": "Carolina Tirado",
+  "author": "carolina",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CaroTrd/Curriculum_vitae_app/issues"
-  },
-  "homepage": "https://github.com/CaroTrd/Curriculum_vitae_app#readme",
   "dependencies": {
     "bcrypt": "^3.0.6",
     "body-parser": "^1.18.3",
@@ -31,12 +23,6 @@
     "mysql": "^2.17.1",
     "restify": "^7.7.0"
   },
-  "keywords": [
-    "server",
-    "for",
-    "cv",
-    "template"
-  ],
   "devDependencies": {
     "concurrently": "^4.1.0"
   }
