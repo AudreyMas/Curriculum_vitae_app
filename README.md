@@ -1,5 +1,6 @@
-Caneva -- 
+A CV builder
 
-![Screenshot](1.jpg)
-![Screenshot](4.jpg)
-![Screenshot](6.jpg)
+
+![Screenshot](1.png)
+![Screenshot](4.png)
+![Screenshot](6.png)
