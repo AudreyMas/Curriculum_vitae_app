@@ -1,6 +1,6 @@
 A CV builder
 
 
-![Screenshot](1.png)
-![Screenshot](4.png)
-![Screenshot](6.png)
+![Screenshot](1.PNG)
+![Screenshot](4.PNG)
+![Screenshot](6.PNG)
